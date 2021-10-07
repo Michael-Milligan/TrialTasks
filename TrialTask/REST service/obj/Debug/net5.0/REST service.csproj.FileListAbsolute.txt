@@ -1,0 +1,16 @@
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\REST service.exe
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\REST service.deps.json
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\REST service.runtimeconfig.json
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\REST service.runtimeconfig.dev.json
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\REST service.dll
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\ref\REST service.dll
+D:\GitHub\TrialTasks\TrialTask\REST service\bin\Debug\net5.0\REST service.pdb
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.csproj.AssemblyReference.cache
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.AssemblyInfoInputs.cache
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.AssemblyInfo.cs
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.csproj.CoreCompileInputs.cache
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.dll
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\ref\REST service.dll
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.pdb
+D:\GitHub\TrialTasks\TrialTask\REST service\obj\Debug\net5.0\REST service.genruntimeconfig.cache
