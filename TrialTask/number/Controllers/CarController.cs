@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace number.Controllers
 {
 	[ApiController]
-	[Route("[controller]")]
+	[Route("[controller]/random")]
 	public class NumberController : ControllerBase
 	{
 
